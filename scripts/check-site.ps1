@@ -22,8 +22,8 @@ foreach ($file in $htmlFiles) {
   if ($html -notmatch '<!DOCTYPE html>') {
     $failures.Add("${relative}: missing HTML5 doctype.")
   }
-  if ($html -notmatch '<meta\s+name="robots"\s+content="noindex, nofollow"') {
-    $failures.Add("${relative}: pre-launch noindex protection is missing.")
+  if ($html -notmatch '<meta\s+name="robots"\s+content="index, follow"') {
+    $failures.Add("${relative}: production indexing metadata is missing.")
   }
   if ([regex]::Matches($html, '<h1\b', 'IgnoreCase').Count -ne 1) {
     $failures.Add("${relative}: expected exactly one visible h1.")
@@ -107,8 +107,14 @@ foreach ($marker in $requiredOrder) {
 }
 
 $robots = Get-Content -Raw -LiteralPath (Join-Path $site 'robots.txt')
-if ($robots -notmatch '(?m)^Disallow:\s*/\s*$') {
-  $failures.Add('robots.txt does not block crawling during pre-launch review.')
+if ($robots -match '(?m)^Disallow:\s*/\s*$') {
+  $failures.Add('robots.txt still blocks production crawling.')
+}
+if ($robots -notmatch '(?m)^Allow:\s*/\s*$') {
+  $failures.Add('robots.txt does not allow production crawling.')
+}
+if ($robots -notmatch '(?m)^Sitemap:\s*https://mehmetceylan\.org/sitemap\.xml\s*$') {
+  $failures.Add('robots.txt does not advertise the production sitemap.')
 }
 
 if ($failures.Count -gt 0) {
@@ -117,4 +123,4 @@ if ($failures.Count -gt 0) {
   exit 1
 }
 
-Write-Host "All checks passed: $($htmlFiles.Count) pages, local files and anchors, heading counts, localized language metadata, pre-launch indexing guards, and publication content order."
+Write-Host "All checks passed: $($htmlFiles.Count) pages, local files and anchors, heading counts, localized language metadata, production indexing settings, and publication content order."

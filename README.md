@@ -1,6 +1,6 @@
 # Mehmet Ceylan akademik web sitesi
 
-Bu klasör, onaylanan Round 4.1 “Margin” tasarımının Quarto kaynak projesidir. Proje yerel inceleme içindir; henüz yayımlanmamıştır.
+Bu klasör, onaylanan Round 4.1 “Margin” tasarımının Quarto kaynak projesidir. Site GitHub Pages üzerinden `mehmetceylan.org` alan adında yayımlanmak üzere yapılandırılmıştır.
 
 ## Yerel önizleme
 
@@ -26,18 +26,16 @@ quarto preview --profile a11y
 
 Bu profil axe-core sonuçlarını tarayıcı konsoluna JSON olarak yazar; varsayılan üretim renderına test kodu eklemez.
 
-## Yayın öncesi korumalar
+## Üretim ayarları
 
-- Tüm sayfalarda `noindex, nofollow` meta etiketi etkindir.
-- `robots.txt` bütün tarayıcı botlarını engeller.
-- Bu iki koruma, yazar son içerik onayını vermeden kaldırılmamalıdır.
-- GitHub Pages, alan adı ve DNS ayarları bu projede yapılmamıştır.
+- Tüm sayfalarda `index, follow` meta etiketi etkindir.
+- `robots.txt` taramaya izin verir ve üretim site haritasını bildirir.
+- `CNAME` dosyası `mehmetceylan.org` alan adını GitHub Pages yayınına taşır.
+- `_quarto-staging.yml`, gerektiğinde varsayılan GitHub Pages adresinde deneme yayını almak için korunur.
 
-## Yayın öncesi tamamlanacak içerikler
+## Sonraki tasarım turu
 
-- Türkçe, İspanyolca ve Çince terminoloji onayı
-- Yayın özetinin yazar onayı
-- Son erişilebilirlik ve bağlantı kontrolü
+- “Çalışmalar / Research” bölümüne mevcut Margin yönünü bozmadan daha fazla renk ve görsel ayrım eklemek.
 
 Onaylanan portre, üç iletişim adresi, Web of Science/ResearchGate/LinkedIn bağlantıları, Ağustos 2026–Nisan 2027 ziyaret tarihleri ve TÜBİTAK 2214-A destek ifadesi eklenmiştir. AEQ-PE-ES ve Türkçe AEQ-PE ölçekleri yeniden barındırılmadan, CC BY 4.0 lisanslı resmî makalelerin Ek 1 bölümlerine bağlanmıştır; AEQ-PE-ES için OSF bağlantısı veri, kod kitabı ve analiz çıktıları amacıyla korunmuştur.
 
