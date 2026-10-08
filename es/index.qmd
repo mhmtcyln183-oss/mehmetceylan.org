@@ -1,0 +1,66 @@
+---
+title: 'Mehmet Ceylan: emociones y motivación en educación física'
+description: 'Estudio cómo se sienten los estudiantes en educación física y cómo la enseñanza se relaciona con su motivación y su participación.'
+lang: "es"
+format:
+  html:
+    include-in-header: "../_includes/head-es.html"
+---
+
+```{=html}
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="index.html" lang="en">Mehmet Ceylan</a>
+    <nav class="site-nav" aria-label="Navegación principal"><ul><li><a href="index.html" aria-current="page">Inicio</a></li><li><span class="is-unavailable" aria-disabled="true" title="aún no disponible en español">Investigación<span class="sr-only"> (aún no disponible en español)</span></span></li><li><span class="is-unavailable" aria-disabled="true" title="aún no disponible en español">Publicaciones<span class="sr-only"> (aún no disponible en español)</span></span></li><li><span class="is-unavailable" aria-disabled="true" title="aún no disponible en español">Recursos<span class="sr-only"> (aún no disponible en español)</span></span></li><li><span class="is-unavailable" aria-disabled="true" title="aún no disponible en español">Sobre mí<span class="sr-only"> (aún no disponible en español)</span></span></li></ul></nav>
+    <nav class="lang" aria-label="Language / Dil / Idioma / 语言"><ul><li><a href="../index.html" lang="en" hreflang="en">EN</a></li><li><a href="../tr/index.html" lang="tr" hreflang="tr">TR</a></li><li><a href="index.html" lang="es" hreflang="es" aria-current="true">ES</a></li><li><a href="../zh/index.html" lang="zh-Hans" hreflang="zh-Hans">中文</a></li></ul></nav>
+  </div>
+</header>
+<main id="main">
+  <div class="wrap">
+    <section class="intro" aria-labelledby="name">
+      <img class="intro__portrait" src="../assets/img/mehmet-ceylan.jpeg" width="168" height="210" alt="Retrato de Mehmet Ceylan">
+      <h1 id="name" lang="en">Mehmet Ceylan</h1>
+      <p class="intro__statement">Estudio cómo se sienten los estudiantes en educación física —⁠<span class="term-pending" title="Término pendiente de revisión experta">disfrute, orgullo, aburrimiento, ansiedad</span>— y cómo la enseñanza, incluida la <span class="term-pending" title="Término pendiente de revisión experta">variedad</span> que ofrece, se relaciona con su motivación y su participación.</p>
+      <ul class="intro__affil">
+        <li lang="en"><strong>Research Assistant</strong>, Department of Physical Education and Sport Teaching, Faculty of Sport Sciences, Kırıkkale University</li>
+        <li lang="en"><strong>Visiting Research Scholar</strong>, Division of Kinesiology &amp; Health, University of Wyoming, 2026–2027</li>
+      </ul>
+      <ul class="profiles" aria-label="Research profiles">
+        <li><a href="https://orcid.org/0000-0003-0291-4247"><svg class="orcid-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="12" fill="#A6CE39"/><text x="12" y="16" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" font-weight="700" fill="#fff">iD</text></svg>ORCID</a></li>
+        <li><a href="https://scholar.google.com/citations?user=qriFNJEAAAAJ">Google Scholar</a></li>
+        <li><a href="https://www.webofscience.com/wos/author/record/LWI-5396-2024">Web of Science</a></li>
+        <li><a href="https://osf.io/sbf98">OSF</a></li>
+        <li><a href="https://www.researchgate.net/profile/Mehmet-Ceylan-22">ResearchGate</a></li>
+        <li><a href="https://www.linkedin.com/in/mehmet-ceylan-6b338b272/">LinkedIn</a></li>
+      </ul>
+      <div class="intro__status">
+        <p class="status-note">Las demás secciones del sitio solo están disponibles en inglés por ahora. <a href="../index.html" hreflang="en">Ir al sitio en inglés</a></p>
+        <p class="status-note">Los términos con subrayado punteado están pendientes de revisión experta. Los cargos y departamentos se muestran en inglés hasta su aprobación.</p>
+      </div>
+    </section>
+  </div>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot-name" lang="en">Mehmet Ceylan</div>
+    <div>
+      <ul class="profiles" aria-label="Research profiles">
+        <li><a href="https://orcid.org/0000-0003-0291-4247"><svg class="orcid-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="12" fill="#A6CE39"/><text x="12" y="16" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" font-weight="700" fill="#fff">iD</text></svg>ORCID</a></li>
+        <li><a href="https://scholar.google.com/citations?user=qriFNJEAAAAJ">Google Scholar</a></li>
+        <li><a href="https://www.webofscience.com/wos/author/record/LWI-5396-2024">Web of Science</a></li>
+        <li><a href="https://osf.io/sbf98">OSF</a></li>
+        <li><a href="https://www.researchgate.net/profile/Mehmet-Ceylan-22">ResearchGate</a></li>
+        <li><a href="https://www.linkedin.com/in/mehmet-ceylan-6b338b272/">LinkedIn</a></li>
+      </ul>
+      <ul class="contact-list" aria-label="Direcciones de correo electrónico">
+        <li><span>Kırıkkale</span><a href="mailto:mehmetceylan@kku.edu.tr">mehmetceylan@kku.edu.tr</a></li>
+        <li><span>Wyoming</span><a href="mailto:mceylan@uwyo.edu">mceylan@uwyo.edu</a></li>
+        <li><span>Personal</span><a href="mailto:mhmtcyln183@gmail.com">mhmtcyln183@gmail.com</a></li>
+      </ul>
+      <p>Los textos del sitio tienen licencia CC BY 4.0. Última actualización: 8 de octubre de 2026.</p>
+    </div>
+  </div>
+</footer>
+```
+

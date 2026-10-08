@@ -1,0 +1,145 @@
+---
+title: 'Mehmet Ceylan: emotions and motivation in physical education'
+description: 'I study how students feel in physical education and how teaching, including the variety it offers, relates to their motivation and participation.'
+lang: "en"
+format:
+  html:
+    include-in-header: "_includes/head-home.html"
+---
+
+```{=html}
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="index.html" lang="en">Mehmet Ceylan</a>
+    <nav class="site-nav" aria-label="Main navigation"><ul><li><a href="index.html" aria-current="page">Home</a></li><li><a href="#research">Research</a></li><li><a href="#featured">Publications</a></li><li><a href="#resources">Resources</a></li><li><a href="#about">About</a></li></ul></nav>
+    <nav class="lang" aria-label="Language / Dil / Idioma / 语言"><ul><li><a href="index.html" lang="en" hreflang="en" aria-current="true">EN</a></li><li><a href="tr/index.html" lang="tr" hreflang="tr">TR</a></li><li><a href="es/index.html" lang="es" hreflang="es">ES</a></li><li><a href="zh/index.html" lang="zh-Hans" hreflang="zh-Hans">中文</a></li></ul></nav>
+  </div>
+</header>
+<main id="main">
+  <div class="wrap">
+    <section class="intro" aria-labelledby="name">
+      <img class="intro__portrait" src="assets/img/mehmet-ceylan.jpeg" width="168" height="210" alt="Portrait of Mehmet Ceylan">
+      <h1 id="name">Mehmet Ceylan</h1>
+      <p class="intro__statement">I study how students feel in physical education—enjoyment, pride, boredom, anxiety—and how teaching, including the variety it offers, relates to their motivation and participation.</p>
+      <ul class="intro__affil">
+        <li><strong>Research Assistant</strong>, Department of Physical Education and Sport Teaching, Faculty of Sport Sciences, Kırıkkale University</li>
+        <li><strong>Visiting Research Scholar</strong>, Division of Kinesiology &amp; Health, University of Wyoming, 2026–2027</li>
+      </ul>
+      <ul class="profiles" aria-label="Research profiles">
+        <li><a href="https://orcid.org/0000-0003-0291-4247"><svg class="orcid-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="12" fill="#A6CE39"/><text x="12" y="16" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" font-weight="700" fill="#fff">iD</text></svg>ORCID</a></li>
+        <li><a href="https://scholar.google.com/citations?user=qriFNJEAAAAJ">Google Scholar</a></li>
+        <li><a href="https://www.webofscience.com/wos/author/record/LWI-5396-2024">Web of Science</a></li>
+        <li><a href="https://osf.io/sbf98">OSF</a></li>
+        <li><a href="https://www.researchgate.net/profile/Mehmet-Ceylan-22">ResearchGate</a></li>
+        <li><a href="https://www.linkedin.com/in/mehmet-ceylan-6b338b272/">LinkedIn</a></li>
+      </ul>
+    </section>
+
+    <section class="section" id="research" aria-labelledby="h-research">
+      <h2 class="section__label" id="h-research">Research</h2>
+      <div class="section__body section__body--wide">
+        <div class="rq-grid">
+          <article class="rq">
+            <h3>What do students feel in physical education, and why?</h3>
+            <p>I study achievement emotions such as enjoyment, pride, boredom and anxiety in PE lessons. Using control-value theory, I ask how students’ sense of control and the value they see in PE relate to these emotions.</p>
+          </article>
+          <article class="rq">
+            <h3>How does variety in PE lessons relate to motivation and participation?</h3>
+            <p>I study variety support: teachers varying activities, equipment, groupings and tasks. I also ask whether variety works as a fourth basic psychological need, alongside autonomy, competence and relatedness.</p>
+          </article>
+          <article class="rq">
+            <h3>How can we measure students’ emotions in PE well?</h3>
+            <p>I adapt and validate questionnaires and observation tools for physical education, including a brief questionnaire for elementary school students.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="featured" aria-labelledby="h-featured">
+      <h2 class="section__label" id="h-featured">Featured research</h2>
+      <div class="section__body">
+        <article class="pub-row">
+          <h3><a href="publications/aeq-pe-elementary/index.html">The adaptation and validation of the Achievement Emotions Questionnaire for Physical Education-Elementary School</a></h3>
+          <p class="pub-meta">M. Ceylan, K. Ceylan, O. Yoncalık<br>International Journal of Assessment Tools in Education, 13(3), 2026</p>
+          <p class="pub-desc">We adapted a brief, visually supported questionnaire on enjoyment, anxiety and boredom in physical education for third- and fourth-grade students, and tested it with 772 children.</p>
+          <div class="actions">
+            <a href="https://doi.org/10.21449/ijate.1730488">Read<span class="sr-only"> the article at the journal</span></a>
+            <a href="publications/aeq-pe-elementary/index.html#cite">Cite</a>
+            <a href="https://osf.io/85q9w/">Data<span class="sr-only"> and materials on OSF</span></a>
+          </div>
+        </article>
+        <article class="pub-row">
+          <h3>Adaptation of the achievement emotions questionnaire for physical education (AEQ-PE) to the Turkish language</h3>
+          <p class="pub-meta">M. Ceylan, Ü. Karlı<br>Journal of Sport Sciences Research, 9(2), 2024</p>
+          <p class="pub-desc">We adapted the AEQ-PE, a questionnaire on achievement emotions in physical education, into Turkish.</p>
+          <div class="actions">
+            <a href="https://doi.org/10.25307/jssr.1416025">Read<span class="sr-only"> the article at the journal</span></a>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section" id="resources" aria-labelledby="h-resources">
+      <h2 class="section__label" id="h-resources">Resources</h2>
+      <div class="section__body section__body--wide">
+        <table class="res">
+          <thead><tr><th scope="col">Resource</th><th scope="col">What it measures</th><th scope="col">Status</th><th scope="col"><span class="sr-only">Actions</span></th></tr></thead>
+          <tbody>
+            <tr>
+              <td><span class="res__abbr">AEQ-PE-ES</span><span class="res__full">Achievement Emotions Questionnaire for Physical Education-Elementary School</span></td>
+              <td data-label="What it measures">Enjoyment, anxiety and boredom in PE lessons, for third- and fourth-grade students. Brief, with visual support.</td>
+              <td data-label="Status"><span class="status">Validated, published 2026</span><span class="status__detail">Tested with 772 students in grades 3 and 4</span></td>
+              <td><div class="actions"><a href="publications/aeq-pe-elementary/index.html#cite">Cite</a><a href="https://dergipark.org.tr/en/download/article-file/5005173#page=15">Use this measure<span class="sr-only"> in Appendix 1 of the open-access article</span></a></div></td>
+            </tr>
+            <tr>
+              <td><span class="res__abbr">AEQ-PE, Turkish</span><span class="res__full">Turkish adaptation of the Achievement Emotions Questionnaire for Physical Education</span></td>
+              <td data-label="What it measures">Achievement emotions in PE lessons. Original questionnaire by Fierro-Suero, Almagro and Sáenz-López (2020).</td>
+              <td data-label="Status"><span class="status">Validated, published 2024</span><span class="status__detail">Turkish adaptation by Ceylan and Karlı (2024)</span></td>
+              <td><div class="actions"><a href="https://doi.org/10.25307/jssr.1416025">Read</a><a href="https://dergipark.org.tr/tr/download/article-file/3644916#page=17">Use this measure<span class="sr-only"> in Appendix 1 of the open-access article</span></a></div></td>
+            </tr>
+            <tr>
+              <td><span class="res__abbr">VSOS-PE</span><span class="res__full">Variety Support Observation System for Physical Education</span></td>
+              <td data-label="What it measures">Teachers’ variety support during PE lessons, by structured observation.</td>
+              <td data-label="Status"><span class="status status--dev">In development</span><span class="status__detail">Pilot version, not yet validated or available for use</span></td>
+              <td></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="section note" id="about" aria-labelledby="h-now">
+      <h2 class="section__label" id="h-now">Currently</h2>
+      <div class="section__body">
+        <p>From August 2026 to April 2027, I am a Visiting Research Scholar in the Division of Kinesiology &amp; Health at the University of Wyoming, working with Dr. Kelly L. Simonton.</p>
+        <p>I welcome contact from researchers and PE teachers interested in achievement emotions, variety support, or adapting PE measures to new languages.</p>
+        <div class="actions"><a href="mailto:mehmetceylan@kku.edu.tr">Email me</a></div>
+      </div>
+    </section>
+  </div>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot-name" lang="en">Mehmet Ceylan</div>
+    <div>
+      <ul class="profiles" aria-label="Research profiles">
+        <li><a href="https://orcid.org/0000-0003-0291-4247"><svg class="orcid-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="12" fill="#A6CE39"/><text x="12" y="16" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" font-weight="700" fill="#fff">iD</text></svg>ORCID</a></li>
+        <li><a href="https://scholar.google.com/citations?user=qriFNJEAAAAJ">Google Scholar</a></li>
+        <li><a href="https://www.webofscience.com/wos/author/record/LWI-5396-2024">Web of Science</a></li>
+        <li><a href="https://osf.io/sbf98">OSF</a></li>
+        <li><a href="https://www.researchgate.net/profile/Mehmet-Ceylan-22">ResearchGate</a></li>
+        <li><a href="https://www.linkedin.com/in/mehmet-ceylan-6b338b272/">LinkedIn</a></li>
+      </ul>
+      <ul class="contact-list" aria-label="Email addresses">
+        <li><span>Kırıkkale</span><a href="mailto:mehmetceylan@kku.edu.tr">mehmetceylan@kku.edu.tr</a></li>
+        <li><span>Wyoming</span><a href="mailto:mceylan@uwyo.edu">mceylan@uwyo.edu</a></li>
+        <li><span>Personal</span><a href="mailto:mhmtcyln183@gmail.com">mhmtcyln183@gmail.com</a></li>
+      </ul>
+      <p>My research stay at the University of Wyoming is supported by a TÜBİTAK 2214-A International Doctoral Research Fellowship.</p>
+      <p>Site text is licensed CC BY 4.0. Last updated 8 October 2026.</p>
+    </div>
+  </div>
+</footer>
+```
+

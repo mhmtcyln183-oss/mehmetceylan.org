@@ -1,0 +1,7 @@
+format:
+  html:
+    axe:
+      output: json
+      standard: wcag21aa
+      best-practice: true
+

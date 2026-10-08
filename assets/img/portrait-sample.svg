@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-labelledby="t">
+  <title id="t">Sample portrait (replace with photo, 4:5 crop)</title>
+  <rect width="400" height="500" fill="#E4DFD4"/>
+  <!-- head-and-shoulders silhouette, eyes on the upper third -->
+  <circle cx="200" cy="178" r="74" fill="#CBC4B6"/>
+  <path d="M58 500 C66 362 128 300 200 300 C272 300 334 362 342 500 Z" fill="#CBC4B6"/>
+  <!-- crop guides: thirds -->
+  <g stroke="#A79F90" stroke-width="1.5" stroke-dasharray="6 7" fill="none" opacity=".7">
+    <line x1="0" y1="166.7" x2="400" y2="166.7"/>
+    <line x1="133.3" y1="0" x2="133.3" y2="500"/>
+    <line x1="266.7" y1="0" x2="266.7" y2="500"/>
+  </g>
+  <!-- corner crop marks -->
+  <g stroke="#8E8678" stroke-width="3" fill="none">
+    <path d="M16 46 V16 H46"/><path d="M354 16 H384 V46"/>
+    <path d="M16 454 V484 H46"/><path d="M354 484 H384 V454"/>
+  </g>
+  <rect x="24" y="424" width="122" height="40" rx="3" fill="#F7F5F0" opacity=".92"/>
+  <text x="85" y="451" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="22" font-weight="600" fill="#59605E">Sample</text>
+</svg>

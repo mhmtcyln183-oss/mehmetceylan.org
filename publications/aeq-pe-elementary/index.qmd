@@ -1,0 +1,177 @@
+---
+title: 'AEQ-PE-ES: a brief questionnaire on emotions in elementary physical education | Mehmet Ceylan'
+description: 'Plain-language summary of the adaptation and validation of the AEQ-PE-ES, a brief, visually supported questionnaire on enjoyment, anxiety and boredom for grades 3 and 4.'
+lang: "en"
+format:
+  html:
+    include-in-header: "../../_includes/head-publication.html"
+---
+
+```{=html}
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="../../index.html" lang="en">Mehmet Ceylan</a>
+    <nav class="site-nav" aria-label="Main navigation"><ul><li><a href="../../index.html">Home</a></li><li><a href="../../index.html#research">Research</a></li><li><a href="../../index.html#featured" aria-current="page">Publications</a></li><li><a href="../../index.html#resources">Resources</a></li><li><a href="../../index.html#about">About</a></li></ul></nav>
+    <nav class="lang" aria-label="Language / Dil / Idioma / 语言"><ul><li><a href="index.html" lang="en" hreflang="en" aria-current="true">EN</a></li><li><span class="is-unavailable" aria-disabled="true" title="henüz Türkçe değil" lang="tr">TR<span class="sr-only"> (henüz Türkçe değil)</span></span></li><li><span class="is-unavailable" aria-disabled="true" title="aún no disponible en español" lang="es">ES<span class="sr-only"> (aún no disponible en español)</span></span></li><li><span class="is-unavailable" aria-disabled="true" title="暂无中文版" lang="zh-Hans">中文<span class="sr-only"> (暂无中文版)</span></span></li></ul></nav>
+  </div>
+</header>
+<main id="main">
+  <div class="wrap">
+    <article class="pub-page">
+      <header class="pub-head">
+        <a class="crumb" href="../../index.html#featured">Publications</a>
+        <h1>The adaptation and validation of the Achievement Emotions Questionnaire for Physical Education-Elementary School</h1>
+        <p class="authors">Mehmet Ceylan, <a href="https://orcid.org/0009-0004-5674-8189">Kevser Ceylan</a>, <a href="https://orcid.org/0000-0003-2289-1257">Oğuzhan Yoncalık</a></p>
+      </header>
+
+      <section class="rail-quick" aria-label="Where to read">
+        <dl class="facts">
+          <div><dt>Journal</dt><dd>International Journal of Assessment Tools in Education, 2026</dd></div>
+          <div><dt>DOI</dt><dd class="doi"><a href="https://doi.org/10.21449/ijate.1730488">10.21449/ijate.1730488</a></dd></div>
+        </dl>
+        <div class="btns"><a class="btn btn--primary" href="https://doi.org/10.21449/ijate.1730488">Read the article</a></div>
+      </section>
+
+      <section class="pub-brief" aria-labelledby="in-brief">
+        <h2 id="in-brief">In brief</h2>
+        <div class="inbrief">
+          <p>Young students feel enjoyment, anxiety and boredom in physical education, but few questionnaires suit their age. We adapted a brief questionnaire with visual support for third- and fourth-grade students and tested it with 772 children. It measured the three emotions reliably and as separate experiences. Measurement invariance was supported across gender. Across grades 3 and 4, configural, metric and scalar invariance were supported, while strict invariance was not fully supported.</p>
+        </div>
+      </section>
+
+      <section class="rail-more" aria-label="Article details">
+        <dl class="facts">
+          <div><dt>Issue</dt><dd>Volume 13, issue 3, <span class="nowrap">pp. 674–688</span></dd></div>
+          <div><dt>First online</dt><dd>2 April 2026</dd></div>
+          <div><dt>Article type</dt><dd>Scale adaptation and validation</dd></div>
+          <div><dt>Access</dt><dd>Open access; CC BY 4.0</dd></div>
+          <div><dt>Themes</dt><dd>Achievement emotions; measurement and psychometrics</dd></div>
+        </dl>
+        <div class="btns">
+          <a class="btn" href="#cite">Cite</a>
+          <a class="btn" href="#data">Data and materials</a>
+          <a class="btn" href="https://dergipark.org.tr/en/download/article-file/5005173#page=15">Use this measure<span class="sr-only"> in Appendix 1 of the open-access article</span></a>
+        </div>
+        <p class="status-note">Summary drafted from the published article. Awaiting author approval.</p>
+      </section>
+
+      <div class="pub-body">
+        <h2 id="question">Research question</h2>
+        <p>Achievement emotions are emotions tied to learning activities and their outcomes. In physical education, enjoyment, anxiety and boredom relate to how motivated and engaged students are. Most questionnaires are written for older students.</p>
+        <p>We asked whether a short, visually supported questionnaire could measure these three emotions validly among elementary school students in PE.</p>
+
+        <h2 id="method">What we did</h2>
+        <p>We translated the questionnaire forward and back, asked experts to check that each item kept its meaning, pre-tested the items for clarity, and piloted the visual layout. We then examined its structure with confirmatory factor analysis and exploratory structural equation modelling.</p>
+        <dl class="keyfacts">
+          <div><dt>Participants</dt><dd>772 students (388 girls)</dd></div>
+          <div><dt>Grades</dt><dd>3 and 4</dd></div>
+          <div><dt>Schools</dt><dd>6 public elementary schools</dd></div>
+          <div><dt>Sampling</dt><dd>Convenience sample, one province</dd></div>
+          <div><dt>Analyses</dt><dd>CFA, ESEM, multi-group CFA</dd></div>
+          <div><dt>Ethics</dt><dd>Kırıkkale University Ethics Committee</dd></div>
+        </dl>
+
+        <h2 id="findings">What we found</h2>
+        <ul class="findings">
+          <li>The data supported three separate factors: enjoyment, anxiety and boredom. Model fit was strong, and items loaded clearly on their own factor with few cross-loadings.</li>
+          <li>Reliability was satisfactory: Cronbach’s α and McDonald’s ω were above .70.</li>
+          <li>Composite reliability exceeded .70 for all three factors. Average variance extracted was .452 for enjoyment, .566 for anxiety and .469 for boredom, so only anxiety reached the conventional .50 threshold. Discriminant validity among the three emotions was supported.</li>
+          <li>Measurement invariance was supported across gender. Across grades 3 and 4, configural, metric and scalar invariance were supported; strict invariance was not fully supported.</li>
+        </ul>
+
+        <h2 id="matters">Why it matters</h2>
+        <div class="two-up">
+          <div><h3>For teachers</h3><p>A short questionnaire with pictures lets teachers check how young students feel in PE lessons without a long, text-heavy survey.</p></div>
+          <div><h3>For researchers</h3><p>Scalar invariance across grades 3 and 4 supports comparing average levels of each emotion between these two grades.</p></div>
+        </div>
+
+        <h2 id="limits">What this study does not show</h2>
+        <p>Students came from schools in a single province and were recruited as a convenience sample, so the results may not apply to other regions. All data came from students’ own reports. The study did not test external validity, such as links with other measures or outcomes. The questionnaire covers only enjoyment, anxiety and boredom, so it does not capture other emotions such as pride or shame.</p>
+
+        <h2 id="cite">Cite this paper</h2>
+        <div class="cite">
+          <p class="cite__ref" id="apa">Ceylan, M., Ceylan, K., &amp; Yoncalık, O. (2026). The adaptation and validation of the Achievement Emotions Questionnaire for Physical Education-Elementary School. <i>International Journal of Assessment Tools in Education, 13</i>(3), 674–688. <a href="https://doi.org/10.21449/ijate.1730488">https://doi.org/10.21449/ijate.1730488</a></p>
+          <div class="cite__tools">
+            <button class="btn" type="button" data-copy="#apa">Copy APA citation</button>
+            <span class="sr-only" role="status" id="copy-status"></span>
+            <div class="cite__formats">
+              <details><summary>BibTeX</summary>
+<pre>@article{ceylan2026aeqpees,
+  author  = {Ceylan, Mehmet and Ceylan, Kevser and Yoncalık, Oğuzhan},
+  title   = {The adaptation and validation of the {Achievement Emotions
+             Questionnaire for Physical Education-Elementary School}},
+  journal = {International Journal of Assessment Tools in Education},
+  year    = {2026},
+  volume  = {13},
+  number  = {3},
+  pages   = {674--688},
+  doi     = {10.21449/ijate.1730488}
+}</pre></details>
+              <details><summary>RIS</summary>
+<pre>TY  - JOUR
+AU  - Ceylan, Mehmet
+AU  - Ceylan, Kevser
+AU  - Yoncalık, Oğuzhan
+TI  - The adaptation and validation of the Achievement Emotions Questionnaire for Physical Education-Elementary School
+JO  - International Journal of Assessment Tools in Education
+PY  - 2026
+VL  - 13
+IS  - 3
+SP  - 674
+EP  - 688
+DO  - 10.21449/ijate.1730488
+ER  - </pre></details>
+            </div>
+          </div>
+        </div>
+
+        <h2 id="data">Data and materials</h2>
+        <ul class="plain-list">
+          <li><a href="https://osf.io/85q9w/">Data, codebook and analysis outputs on OSF</a><span class="pub-meta">Publicly available, as stated in the article’s data-availability statement</span></li>
+          <li><a href="https://dergipark.org.tr/en/download/article-file/5005173#page=15">Use the AEQ-PE-ES in Appendix 1 of the published article</a><span class="pub-meta">The complete instrument and visual response format are included in the open-access article under CC BY 4.0. Please cite the publication when using or adapting it.</span></li>
+          <li>The article is open access under CC BY 4.0 at <a href="https://doi.org/10.21449/ijate.1730488">the journal website</a>. No PDF is hosted on this site.</li>
+        </ul>
+
+        <h2 id="related">Related work</h2>
+        <ul class="plain-list">
+          <li><a href="https://doi.org/10.25307/jssr.1416025">Adaptation of the achievement emotions questionnaire for physical education (AEQ-PE) to the Turkish language</a><span class="pub-meta">Ceylan, M., &amp; Karlı, Ü. (2024). Journal of Sport Sciences Research, 9(2), 132–148.</span></li>
+        </ul>
+      </div>
+    </article>
+  </div>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot-name" lang="en">Mehmet Ceylan</div>
+    <div>
+      <ul class="profiles" aria-label="Research profiles">
+        <li><a href="https://orcid.org/0000-0003-0291-4247"><svg class="orcid-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="12" fill="#A6CE39"/><text x="12" y="16" text-anchor="middle" font-family="Arial, sans-serif" font-size="10.5" font-weight="700" fill="#fff">iD</text></svg>ORCID</a></li>
+        <li><a href="https://scholar.google.com/citations?user=qriFNJEAAAAJ">Google Scholar</a></li>
+        <li><a href="https://www.webofscience.com/wos/author/record/LWI-5396-2024">Web of Science</a></li>
+        <li><a href="https://osf.io/sbf98">OSF</a></li>
+        <li><a href="https://www.researchgate.net/profile/Mehmet-Ceylan-22">ResearchGate</a></li>
+        <li><a href="https://www.linkedin.com/in/mehmet-ceylan-6b338b272/">LinkedIn</a></li>
+      </ul>
+      <ul class="contact-list" aria-label="Email addresses">
+        <li><span>Kırıkkale</span><a href="mailto:mehmetceylan@kku.edu.tr">mehmetceylan@kku.edu.tr</a></li>
+        <li><span>Wyoming</span><a href="mailto:mceylan@uwyo.edu">mceylan@uwyo.edu</a></li>
+        <li><span>Personal</span><a href="mailto:mhmtcyln183@gmail.com">mhmtcyln183@gmail.com</a></li>
+      </ul>
+      <p>Site text is licensed CC BY 4.0. Last updated 8 October 2026.</p>
+    </div>
+  </div>
+</footer>
+<script>
+  document.querySelectorAll('[data-copy]').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var text = document.querySelector(btn.dataset.copy).innerText, status = document.getElementById('copy-status');
+      navigator.clipboard.writeText(text).then(function () {
+        btn.textContent = 'Copied'; status.textContent = 'Citation copied';
+        setTimeout(function () { btn.textContent = 'Copy APA citation'; }, 2000);
+      }, function () { btn.textContent = 'Copy failed'; });
+    });
+  });
+</script>
+```
+

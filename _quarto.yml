@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - tr/index.qmd
+    - es/index.qmd
+    - zh/index.qmd
+    - publications/aeq-pe-elementary/index.qmd
+  resources:
+    - assets/**
+    - robots.txt
+
+website:
+  site-url: "https://mehmetceylan.org"
+  open-graph: false
+  twitter-card: false
+
+format:
+  html:
+    template: _templates/site.html
+    minimal: true
+    theme: none
+    title-block-style: none
+    page-layout: custom
+    toc: false
+    anchor-sections: false
+
