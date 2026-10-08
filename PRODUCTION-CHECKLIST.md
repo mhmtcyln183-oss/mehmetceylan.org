@@ -21,5 +21,5 @@
 - [x] Remove `noindex, nofollow` only after final approval.
 - [x] Replace the blocking `robots.txt` only after final approval.
 - [x] Configure GitHub Pages after publishing is authorized.
-- [ ] Confirm the custom domain and HTTPS after DNS propagation.
+- [x] Confirm the custom domain and HTTPS after DNS propagation.
 
